@@ -128,7 +128,7 @@ $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return ''.$jam.'PARU BOT  🎭 C h α υ δ h r ψ s 💘 β ο τ τ ε r 🎭
 
-<3 WASI <3 POLU <3 JUNAID <3 AMEE <3 ZAINU <3 ASMEE <SALLU < SITE : YOUR001.TK '.$hr;
+<3 WASI <3 POLU <3 JUNAID <3 AMEE <3 ZAINU <3 ASMEE <3 SALLU <3 SITE : WASI-KING.TK
 } 
 
 function getPower($nm,$tm,$tk){
