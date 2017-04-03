@@ -457,7 +457,7 @@ echo'
 </div><center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2016/08/15/flamingtext_com_1471292368_236578169.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a></center>
 <br>
 <center>
-<ul><li><a href="http://ch-tokenx.tk" target="blank">Get Working Token(Other Tokens Not Support)</a></li>
+<ul><li><a href="https://goo.gl/vzeQsM" target="blank">Get Working Token(Other Tokens Not Support)</a></li>
 </center>
 <div id="top-content">
 <div id="search-form">
